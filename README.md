@@ -1,2 +1,2 @@
 # ghsshagnis-
-website for government Girls High School Hagnis  
+website for government Girls Higher Secondary School Hagnis  
